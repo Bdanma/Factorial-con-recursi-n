@@ -1,0 +1,24 @@
+body {
+	background-color: #bbbbbb; 
+}
+
+img {
+	width: 50px;
+	height: 50px;
+	margin-left: 30px;
+}
+
+img#img1 {
+	width: 200px;
+	height: 200px;
+}
+
+img#img2 {
+	display: none;
+	width: 400px;
+	height: 100px;
+}
+
+div.todo {
+	display: none;
+}
